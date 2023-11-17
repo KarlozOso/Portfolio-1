@@ -19,37 +19,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            As a Graphic Designer, my passion for video and photography sparked during my childhood while watching Michael Jackson's 'Thriller.' This fascination grew as I matured, leading me to explore the profound impact of graphics on society.
               <br />
-              <br />I am fluent in classics like
+              <br />I have expertise in various technologies such as 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Adobe Creative Suite (Photoshop, Illustrator, Premiere, Lightroom), Figma, Canva, HTML, CSS, JavaScript, and React. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              My passions revolve around <i><b class='purple'>creating eye-catching visuals</b></i>, ranging from social media posts to <i><b class='purple'>web design</b></i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              I hold immense passion for the tech industry, spanning from smartphones to emerging software, video games, sports, and entertainment. My interest extends to <b class='purple'>Node.js</b>. Drawing from my background in sales, I leverage this experience to enhance my designs, thereby significantly elevating <i><b class='purple'>user experience</b></i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
