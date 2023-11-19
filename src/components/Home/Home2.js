@@ -30,7 +30,7 @@ function Home2() {
               My passions revolve around <i><b class='purple'>creating eye-catching visuals</b></i>, ranging from social media posts to <i><b class='purple'>web design</b></i>
               <br />
               <br />
-              I hold immense passion for the tech industry, spanning from smartphones to emerging software, video games, sports, and entertainment. My interest extends to <b class='purple'>Node.js</b>. Drawing from my background in sales, I leverage this experience to enhance my designs, thereby significantly elevating <i><b class='purple'>user experience</b></i>
+              I hold immense passion for the tech industry, spanning from smartphones to emerging software, video games, sports, and entertainment. Drawing from my background in sales, I leverage this experience to enhance my designs, thereby significantly elevating the <i><b class='purple'>User Experience</b></i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -48,7 +48,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -58,7 +58,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -68,7 +68,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
