@@ -25,10 +25,6 @@ function Toolstack() {
       <SiAdobecreativecloud />
       <h4>Creative Cloud</h4>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
-        <h4>Vercel</h4>
-      </Col>
     </Row>
   );
 }
