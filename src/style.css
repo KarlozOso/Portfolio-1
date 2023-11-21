@@ -741,3 +741,40 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.project-details {
+  position: absolute;
+  bottom: -5%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: .5rem;
+  padding-bottom: 5rem;
+  color: white;
+  width: 100%; /* Ajusta el ancho del contenedor según sea necesario */
+  max-width: 50rem; /* Establece un ancho máximo para el contenido */
+}
+
+.project-details h3 {
+  margin-bottom: 2rem;
+  font-size: 1.3em; /* Tamaño del título */
+}
+
+.project-details p {
+  margin-top: 2rem;
+  margin-bottom: -1rem;
+  font-size: .9em; /* Tamaño del texto */
+}
+
+.project-details div {
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+}
+
+/* Ajustar el tamaño de las imágenes en el carrusel */
+.carousel-item img {
+  max-width: 50rem;
+  height: auto;
+  width: 80rem;
+}

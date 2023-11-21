@@ -7,7 +7,9 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn,
+   FaFlickr, 
+  } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -48,7 +50,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://github.com/KarlozOso"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -58,17 +60,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href=""
+                  href="https://www.linkedin.com/in/carlos-hernandez-espina-4a9a08153/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,12 +70,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://www.flickr.com/photos/karlozoso/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                <FaFlickr />
                 </a>
               </li>
             </ul>
